@@ -18,8 +18,8 @@ I am a creative technologist and AI engineer operating at the intersection of hu
 
 **EmotionArc Studio** is a private, proprietary AI tool for engineering emotional journeys in characters. It uses a novel "Emotional Physics Engine" to provide creators with precise control over character consistency and emotional transitions.
 
-*   **🔴 Watch the Demo on YouTube:** [Link to your YouTube video]
-*   **🟢 Try the Live Application:** [Link to your Vercel deployment]
+*   **🔴 Watch the Demo on YouTube:** Coming Soon
+*   **🟢 Try the Live Application:** Coming Soon
 *   **🔒 Note:** The source code for this project is private.
 
 ---
